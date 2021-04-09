@@ -1,4 +1,6 @@
 this is a sample file 
 
 1
-testing reset commit 1
+testing reset commit 
+
+thi si comparision test1
